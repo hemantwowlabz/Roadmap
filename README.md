@@ -3,18 +3,28 @@ Roadmap for hemantp at wowlabz
 
 ## Roadmap
 
-### Projects
-- [ ] TODO
+### Projects To Implement
+- [ ] Commitments
+  - [ ] Pederson
+  - [ ] KZG
+  - [ ] BLS Aggregation
 
 ### Rust
-- [ ] TODO
+- [ ] Rust-book
+- [ ] Cryptopals
 
 ### Python
-- [ ] TODO
+- [ ] [cryptography for developers](https://cryptobook.nakov.com/)
 
 ### Circom
-- [ ] TODO
+- [ ] 0xPARC Resouces
 
 ### Texts
-- [ ] TODO
+- [ ] MoonMath Manual
+- [ ] Abstract Alegbra Sage
+- [ ] Algebra Springer
 
+### Projects To Study
+- [ ] Zkopru
+- [ ] Fluidex
+- [ ] BLS wallet
