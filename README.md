@@ -14,8 +14,7 @@ Projects To Implement
 
 Present
 - [.] Crypto Basics
-  - [.] [cryptography for developers](https://cryptobook.nakov.com/)
-    - [.] HashFunctions
+  - [X] [cryptography for developers](https://cryptobook.nakov.com/)\
   - [.] https://explained-from-first-principles.com/number-theory/
     - [.] https://explained-from-first-principles.com/number-theory/#linear-one-way-functions
   - [.] Elliptic
